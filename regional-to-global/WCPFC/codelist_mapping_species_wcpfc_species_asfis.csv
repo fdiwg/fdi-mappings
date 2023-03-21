@@ -1,0 +1,17 @@
+src_code,trg_code,src_codingsystem,trg_codingsystem
+ALB,ALB,species_wcpfc,species_asfis
+BET,BET,species_wcpfc,species_asfis
+BLM,BLM,species_wcpfc,species_asfis
+BUM,BUM,species_wcpfc,species_asfis
+FAL,FAL,species_wcpfc,species_asfis
+HAM,SPN,species_wcpfc,species_asfis
+MAK,MAK,species_wcpfc,species_asfis
+MLS,MLS,species_wcpfc,species_asfis
+OCS,OCS,species_wcpfc,species_asfis
+PBF,PBF,species_wcpfc,species_asfis
+POR,POR,species_wcpfc,species_asfis
+SKJ,SKJ,species_wcpfc,species_asfis
+SWO,SWO,species_wcpfc,species_asfis
+THR,THR,species_wcpfc,species_asfis
+TUN,TUN,species_wcpfc,species_asfis
+YFT,YFT,species_wcpfc,species_asfis
