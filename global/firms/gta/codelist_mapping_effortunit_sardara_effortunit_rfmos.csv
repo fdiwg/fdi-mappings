@@ -1,0 +1,5 @@
+"src_code","trg_code","src_codingsystem","trg_codingsystem"
+"duree_des_calees","DUR.SETS","effortunit_sardara","effortunit_rfmos"
+"heure_de_peche_apres_standardisation","STDHR","effortunit_sardara","effortunit_rfmos"
+"heures_de_mer","FDAYS","effortunit_sardara","effortunit_rfmos"
+"heures_de_peche","FHOURS","effortunit_sardara","effortunit_rfmos"

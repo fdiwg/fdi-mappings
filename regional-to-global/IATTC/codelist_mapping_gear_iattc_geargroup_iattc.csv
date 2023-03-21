@@ -1,0 +1,14 @@
+src_code,trg_code,src_codingsystem,trg_codingsystem
+FPN,FPN,gear_iattc,geargroup_iattc
+GN,GN,gear_iattc,geargroup_iattc
+HAR,HAR,gear_iattc,geargroup_iattc
+LL,LL,gear_iattc,geargroup_iattc
+LP,LP,gear_iattc,geargroup_iattc
+LTL,LTL,gear_iattc,geargroup_iattc
+LX,LX,gear_iattc,geargroup_iattc
+MO,MO,gear_iattc,geargroup_iattc
+NK,NK,gear_iattc,geargroup_iattc
+OTR,OTR,gear_iattc,geargroup_iattc
+PS,PS,gear_iattc,geargroup_iattc
+RG,RG,gear_iattc,geargroup_iattc
+TX,TX,gear_iattc,geargroup_iattc
