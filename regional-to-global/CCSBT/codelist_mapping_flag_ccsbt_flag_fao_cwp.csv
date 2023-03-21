@@ -1,0 +1,9 @@
+src_code,trg_code,src_codingsystem,trg_codingsystem
+AU,AUS,flag_ccsbt,flag_fao_cwp
+ID,IDN,flag_ccsbt,flag_fao_cwp
+JP,JPN,flag_ccsbt,flag_fao_cwp
+KR,KOR,flag_ccsbt,flag_fao_cwp
+NZ,NZL,flag_ccsbt,flag_fao_cwp
+PH,PHL,flag_ccsbt,flag_fao_cwp
+TW,TWN,flag_ccsbt,flag_fao_cwp
+ZA,ZAF,flag_ccsbt,flag_fao_cwp
