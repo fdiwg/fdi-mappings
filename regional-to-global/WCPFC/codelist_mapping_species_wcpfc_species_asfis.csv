@@ -2,6 +2,7 @@ src_code,trg_code,src_codingsystem,trg_codingsystem
 ALB,ALB,species_wcpfc,species_asfis
 BET,BET,species_wcpfc,species_asfis
 BLM,BLM,species_wcpfc,species_asfis
+BSH,BSH,species_wcpfc,species_asfis
 BUM,BUM,species_wcpfc,species_asfis
 FAL,FAL,species_wcpfc,species_asfis
 HAM,SPN,species_wcpfc,species_asfis
