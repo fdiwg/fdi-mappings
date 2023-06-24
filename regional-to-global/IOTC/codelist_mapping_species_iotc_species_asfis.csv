@@ -127,7 +127,7 @@ YFT,YFT,species_iotc,species_asfis
 YRS,YRS,species_iotc,species_asfis
 YTC,YTC,species_iotc,species_asfis
 CCO,CCO,species_iotc,species_asfis
-CCW,CCW,species_iotc,species_asfis
+CCW,AML,species_iotc,species_asfis
 GES,GES,species_iotc,species_asfis
 LTA,LTA,species_iotc,species_asfis
 TRE,TRE,species_iotc,species_asfis
@@ -169,7 +169,7 @@ OSF,OSF,species_iotc,species_asfis
 CTU,CTU,species_iotc,species_asfis
 TFM,TFM,species_iotc,species_asfis
 RAJ,RAJ,species_iotc,species_asfis
-RMJ,RMJ,species_iotc,species_asfis
+RMJ,RMM,species_iotc,species_asfis
 ESCL,LEC,species_iotc,species_asfis
 MLW,WHM,species_iotc,species_asfis
 SHBC,HAY,species_iotc,species_asfis
