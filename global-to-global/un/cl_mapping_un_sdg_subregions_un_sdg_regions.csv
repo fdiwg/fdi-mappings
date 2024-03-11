@@ -1,0 +1,15 @@
+src_code,trg_code,src_codingsystem,trg_codingsystem
+SDG_SUB_SSA,SDG_SSA,un_sdg_subregions,un_sdg_regions
+SDG_SUB_NAF,SDG_NAWA,un_sdg_subregions,un_sdg_regions
+SDG_SUB_WAS,SDG_NAWA,un_sdg_subregions,un_sdg_regions
+SDG_SUB_CAS,SDG_CSA,un_sdg_subregions,un_sdg_regions
+SDG_SUB_SAS,SDG_CSA,un_sdg_subregions,un_sdg_regions
+SDG_SUB_EAS,SDG_ESEA,un_sdg_subregions,un_sdg_regions
+SDG_SUB_SEAS,SDG_ESEA,un_sdg_subregions,un_sdg_regions
+SDG_SUB_CAR,SDG_LAC,un_sdg_subregions,un_sdg_regions
+SDG_SUB_CAM,SDG_LAC,un_sdg_subregions,un_sdg_regions
+SDG_SUB_SAM,SDG_LAC,un_sdg_subregions,un_sdg_regions
+SDG_SUB_ANZ,SDG_OCE,un_sdg_subregions,un_sdg_regions
+SDG_SUB_OCE,SDG_OCE,un_sdg_subregions,un_sdg_regions
+SDG_SUB_NAM,SDG_ENA,un_sdg_subregions,un_sdg_regions
+SDG_SUB_EUR,SDG_ENA,un_sdg_subregions,un_sdg_regions
