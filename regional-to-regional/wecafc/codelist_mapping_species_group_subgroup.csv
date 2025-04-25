@@ -1,0 +1,6 @@
+src_code,trg_code,src_codingsystem,trg_codingsystem
+1,1,cl_species_group,cl_species_subgroup
+2,2,cl_species_group,cl_species_subgroup
+2,3,cl_species_group,cl_species_subgroup
+2,4,cl_species_group,cl_species_subgroup
+3,5,cl_species_group,cl_species_subgroup
