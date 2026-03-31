@@ -6,12 +6,16 @@ BSH,BSH,species_wcpfc,species_asfis
 BUM,BUM,species_wcpfc,species_asfis
 FAL,FAL,species_wcpfc,species_asfis
 HAM,SPN,species_wcpfc,species_asfis
+LMA,LMA,species_wcpfc,species_asfis
 MAK,MAK,species_wcpfc,species_asfis
 MLS,MLS,species_wcpfc,species_asfis
 OCS,OCS,species_wcpfc,species_asfis
 PBF,PBF,species_wcpfc,species_asfis
 POR,POR,species_wcpfc,species_asfis
+PTH,PTH,species_wcpfc,species_asfis
 SKJ,SKJ,species_wcpfc,species_asfis
+SMA,SMA,species_wcpfc,species_asfis
+SPN,SPN,species_wcpfc,species_asfis
 SWO,SWO,species_wcpfc,species_asfis
 THR,THR,species_wcpfc,species_asfis
 TUN,TUN,species_wcpfc,species_asfis
