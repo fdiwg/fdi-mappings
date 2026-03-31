@@ -1,4 +1,6 @@
 "src_code","trg_code","src_codingsystem","trg_codingsystem"
 "FS","FS","schooltype_iotc","schooltype_rfmos"
 "LS","LS","schooltype_iotc","schooltype_rfmos"
+"LA","LS","schooltype_iotc","schooltype_rfmos"
+"FD","LS","schooltype_iotc","schooltype_rfmos"
 "UNCL","UNK","schooltype_iotc","schooltype_rfmos"
