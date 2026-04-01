@@ -1,3 +1,4 @@
 "src_code","trg_code","src_codingsystem","trg_codingsystem"
 "FAD","LS","schooltype_iccat","schooltype_rfmos"
 "FSC","FS","schooltype_iccat","schooltype_rfmos"
+"OTH","OTH","schooltype_iccat","schooltype_rfmos"
