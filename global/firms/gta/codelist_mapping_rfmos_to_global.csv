@@ -9,7 +9,7 @@
 "IATTC","species","codelist_mapping_species_iattc_species_asfis"
 "WCPFC","species","codelist_mapping_species_wcpfc_species_asfis"
 "CCSBT","species","codelist_mapping_species_ccsbt_species_asfis"
-"IOTC","fishingfleet","codelist_mapping_flag_iotc_fishingfleet_firms"
+"IOTC","fishing_fleet","codelist_mapping_flag_iotc_fishingfleet_firms"
 "ICCAT","fishing_fleet","codelist_mapping_flag_iccat_fishingfleet_firms"
 "IATTC","fishing_fleet","codelist_mapping_flag_iattc_fishingfleet_firms"
 "WCPFC","fishing_fleet","codelist_mapping_flag_wcpfc_fishingfleet_firms"
