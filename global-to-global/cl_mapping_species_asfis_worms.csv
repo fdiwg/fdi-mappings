@@ -152,6 +152,7 @@ FPR,1015593,asfis,worms
 PUU,1021905,asfis,worms
 PUM,1021856,asfis,worms
 SND,1805556,asfis,worms
+ZLE,NA,asfis,worms
 DIL,1012518,asfis,worms
 DII,1015087,asfis,worms
 EIO,1010586,asfis,worms
@@ -241,6 +242,7 @@ JEG,1015553,asfis,worms
 LPT,1014755,asfis,worms
 LCO,1470720,asfis,worms
 LWD,474117,asfis,worms
+FMF,1020554,asfis,worms
 BBK,1016736,asfis,worms
 WLC,1016630,asfis,worms
 LWK,1021045,asfis,worms
@@ -316,6 +318,7 @@ ZAQ,1423379,asfis,worms
 SWZ,1016604,asfis,worms
 QEZ,270830,asfis,worms
 SMN,1383101,asfis,worms
+FMH,1012290,asfis,worms
 SKG,1296624,asfis,worms
 SNT,1010499,asfis,worms
 YGH,282800,asfis,worms
@@ -589,7 +592,7 @@ RHQ,159985,asfis,worms
 RHW,567547,asfis,worms
 RHV,592846,asfis,worms
 LWG,1019786,asfis,worms
-EUE,1621466,asfis,worms
+EUE,1026590,asfis,worms
 MOI,1772418,asfis,worms
 RIL,592850,asfis,worms
 RWC,307935,asfis,worms
@@ -641,6 +644,7 @@ IHF,1020668,asfis,worms
 BCK,1012734,asfis,worms
 BHX,1019147,asfis,worms
 IBZ,1018399,asfis,worms
+ITY,268505,asfis,worms
 HRB,1018936,asfis,worms
 BMI,1014336,asfis,worms
 BMP,1022401,asfis,worms
@@ -691,8 +695,8 @@ TJK,1013402,asfis,worms
 TJI,1470226,asfis,worms
 TJV,1805565,asfis,worms
 TLG,1021112,asfis,worms
-TJT,1011205,asfis,worms
-TJM,1011204,asfis,worms
+TJT,1841072,asfis,worms
+TJM,1841068,asfis,worms
 TJA,1018658,asfis,worms
 TJL,1013273,asfis,worms
 TJR,1525784,asfis,worms
@@ -719,6 +723,7 @@ YAF,1019098,asfis,worms
 YCW,1014298,asfis,worms
 MIZ,1524346,asfis,worms
 YFF,1018473,asfis,worms
+VYP,268930,asfis,worms
 YPE,1019204,asfis,worms
 YTO,1018794,asfis,worms
 DKF,1015849,asfis,worms
@@ -953,9 +958,9 @@ NCC,1026796,asfis,worms
 NCG,1021765,asfis,worms
 NQV,1022648,asfis,worms
 ONN,281795,asfis,worms
-FKN,270052,asfis,worms
 ONP,581711,asfis,worms
 ONX,1020010,asfis,worms
+FKN,154643,asfis,worms
 OMB,1013292,asfis,worms
 OBB,279990,asfis,worms
 OMC,1019186,asfis,worms
@@ -1377,6 +1382,7 @@ SHJ,1021262,asfis,worms
 TGL,1012132,asfis,worms
 TCA,1525760,asfis,worms
 EMD,1014271,asfis,worms
+FNV,1019167,asfis,worms
 TDE,1019673,asfis,worms
 TDR,1019717,asfis,worms
 TDP,1016440,asfis,worms
@@ -1583,6 +1589,7 @@ UZA,1014293,asfis,worms
 UST,1022128,asfis,worms
 WAA,283161,asfis,worms
 WAX,271220,asfis,worms
+FWE,1537079,asfis,worms
 ABN,1010242,asfis,worms
 AHJ,1021527,asfis,worms
 ADF,279758,asfis,worms
@@ -1686,6 +1693,7 @@ PML,1017064,asfis,worms
 PMY,1018771,asfis,worms
 QRM,270410,asfis,worms
 RLC,1013375,asfis,worms
+IQD,1021025,asfis,worms
 RMQ,1022983,asfis,worms
 RNX,270723,asfis,worms
 RIM,1383147,asfis,worms
@@ -1797,6 +1805,7 @@ XHC,NA,asfis,worms
 HTF,281072,asfis,worms
 AUS,1018924,asfis,worms
 CNO,1026295,asfis,worms
+ILC,268863,asfis,worms
 IAB,1020249,asfis,worms
 ITC,1023048,asfis,worms
 ITM,154205,asfis,worms
@@ -2188,8 +2197,12 @@ YCK,159285,asfis,worms
 FYC,280790,asfis,worms
 JDF,281204,asfis,worms
 MPP,1383637,asfis,worms
+ZRE,1621221,asfis,worms
 OUG,1011671,asfis,worms
 KGP,1021970,asfis,worms
+ZPI,1012303,asfis,worms
+ZLU,NA,asfis,worms
+XOR,270122,asfis,worms
 PFH,1524997,asfis,worms
 ADU,1012427,asfis,worms
 ATZ,1014363,asfis,worms
@@ -2270,6 +2283,7 @@ AYU,1049455,asfis,worms
 EHE,954589,asfis,worms
 EHA,1022036,asfis,worms
 EHR,1022848,asfis,worms
+IJQ,1419863,asfis,worms
 EHP,1419879,asfis,worms
 GYU,723433,asfis,worms
 GYL,1012846,asfis,worms
@@ -2331,7 +2345,7 @@ SIN,1021545,asfis,worms
 WSG,282798,asfis,worms
 ZSS,282799,asfis,worms
 BKP,1019059,asfis,worms
-GDU,1012067,asfis,worms
+GDU,1841075,asfis,worms
 MLK,991271,asfis,worms
 MLQ,991272,asfis,worms
 MCP,991273,asfis,worms
@@ -2495,8 +2509,10 @@ OAE,279564,asfis,worms
 HVJ,279421,asfis,worms
 PSM,254556,asfis,worms
 SUS,279422,asfis,worms
+JGE,254339,asfis,worms
 SME,126736,asfis,worms
 SMR,126737,asfis,worms
+VOM,125899,asfis,worms
 OSY,282844,asfis,worms
 EUL,282959,asfis,worms
 SMX,125899,asfis,worms
@@ -2675,13 +2691,16 @@ IYO,275694,asfis,worms
 IYP,159166,asfis,worms
 IYT,275695,asfis,worms
 IYM,275696,asfis,worms
+KFD,158786,asfis,worms
 YLZ,275700,asfis,worms
 UPB,158795,asfis,worms
 YLP,275702,asfis,worms
 YLQ,275703,asfis,worms
+KQG,158794,asfis,worms
 UCO,158799,asfis,worms
 UMI,158801,asfis,worms
 UPE,275709,asfis,worms
+KWN,158797,asfis,worms
 YGL,1577361,asfis,worms
 YAG,275839,asfis,worms
 YAL,275840,asfis,worms
@@ -2716,6 +2735,7 @@ LKU,278066,asfis,worms
 KZR,278069,asfis,worms
 LFG,281398,asfis,worms
 BML,159209,asfis,worms
+KVB,275919,asfis,worms
 BVJ,1621422,asfis,worms
 NLM,219810,asfis,worms
 BPK,282002,asfis,worms
@@ -2741,6 +2761,7 @@ YSF,275809,asfis,worms
 FLS,158826,asfis,worms
 YSV,275814,asfis,worms
 YSH,158829,asfis,worms
+JBR,275815,asfis,worms
 YSO,308639,asfis,worms
 BAH,275816,asfis,worms
 EOO,275817,asfis,worms
@@ -2751,6 +2772,7 @@ BAX,158823,asfis,worms
 UHA,220051,asfis,worms
 CIF,277075,asfis,worms
 QYM,277077,asfis,worms
+JDQ,277078,asfis,worms
 UHE,220052,asfis,worms
 UHJ,277079,asfis,worms
 UHG,277082,asfis,worms
@@ -2843,6 +2865,7 @@ HIK,279490,asfis,worms
 ULI,279493,asfis,worms
 UMZ,279494,asfis,worms
 UTV,279495,asfis,worms
+JEH,268211,asfis,worms
 IYD,279642,asfis,worms
 UYC,1017166,asfis,worms
 GHM,159269,asfis,worms
@@ -2879,6 +2902,7 @@ YNC,403342,asfis,worms
 DAK,1013541,asfis,worms
 YNU,403345,asfis,worms
 YNG,403346,asfis,worms
+GVR,268943,asfis,worms
 DXU,317688,asfis,worms
 CET,127154,asfis,worms
 HMP,219826,asfis,worms
@@ -2896,6 +2920,7 @@ THS,126129,asfis,worms
 MHH,127155,asfis,worms
 ADT,219829,asfis,worms
 ADJ,278364,asfis,worms
+JEJ,205674,asfis,worms
 OLK,1803665,asfis,worms
 WZA,274307,asfis,worms
 OAM,236490,asfis,worms
@@ -2953,6 +2978,7 @@ GSJ,1803655,asfis,worms
 TZJ,274233,asfis,worms
 YFR,305635,asfis,worms
 UEG,274239,asfis,worms
+JGI,159358,asfis,worms
 VVB,274241,asfis,worms
 YFI,274245,asfis,worms
 YFU,127133,asfis,worms
@@ -3018,6 +3044,7 @@ POS,234781,asfis,worms
 WHB,126439,asfis,worms
 POL,126440,asfis,worms
 POK,126441,asfis,worms
+VTR,712475,asfis,worms
 NOP,126444,asfis,worms
 BIB,126445,asfis,worms
 POD,126446,asfis,worms
@@ -3089,6 +3116,7 @@ SVL,126500,asfis,worms
 TPG,217739,asfis,worms
 MOR,125474,asfis,worms
 GRN,272450,asfis,worms
+GRM,272449,asfis,worms
 LYB,221502,asfis,worms
 KXP,279334,asfis,worms
 BFZ,126462,asfis,worms
@@ -3352,6 +3380,7 @@ OLL,281346,asfis,worms
 MOQ,281516,asfis,worms
 OVY,217574,asfis,worms
 MHK,217578,asfis,worms
+FOZ,275486,asfis,worms
 MXU,275488,asfis,worms
 QJH,275489,asfis,worms
 MXZ,275495,asfis,worms
@@ -3360,9 +3389,11 @@ MZA,281611,asfis,worms
 MZB,281612,asfis,worms
 OND,281644,asfis,worms
 NZU,217588,asfis,worms
+FTJ,271947,asfis,worms
 OZF,271952,asfis,worms
 OOG,271955,asfis,worms
 OOZ,126315,asfis,worms
+FWJ,158646,asfis,worms
 OOH,271976,asfis,worms
 OOR,126316,asfis,worms
 QLI,271987,asfis,worms
@@ -3403,6 +3434,8 @@ OSA,308392,asfis,worms
 AUF,158709,asfis,worms
 VGT,293651,asfis,worms
 VAS,293653,asfis,worms
+IVC,1524450,asfis,worms
+IWR,158708,asfis,worms
 FUR,214562,asfis,worms
 AUI,275569,asfis,worms
 AUG,275573,asfis,worms
@@ -3450,16 +3483,19 @@ AUA,281674,asfis,worms
 JJT,281675,asfis,worms
 AUT,281743,asfis,worms
 AUX,281745,asfis,worms
+IXK,281763,asfis,worms
 BVN,1014484,asfis,worms
 NGZ,281766,asfis,worms
 QKE,281767,asfis,worms
 QKJ,281768,asfis,worms
+IXB,344676,asfis,worms
 QKQ,281772,asfis,worms
 SDT,293654,asfis,worms
 WNR,270039,asfis,worms
 QKW,293656,asfis,worms
 OGM,281947,asfis,worms
 TSY,1717285,asfis,worms
+IXW,282296,asfis,worms
 AUD,282297,asfis,worms
 UKY,1043427,asfis,worms
 UKW,282300,asfis,worms
@@ -3482,6 +3518,7 @@ IEM,217662,asfis,worms
 RLW,932880,asfis,worms
 IEN,217665,asfis,worms
 IEP,217664,asfis,worms
+IZU,272117,asfis,worms
 LIG,217663,asfis,worms
 LIB,126371,asfis,worms
 SZX,125685,asfis,worms
@@ -3493,6 +3530,7 @@ DQM,217673,asfis,worms
 SYL,272132,asfis,worms
 DGC,217666,asfis,worms
 SDR,126372,asfis,worms
+IZY,272139,asfis,worms
 DYZ,126373,asfis,worms
 SYW,217670,asfis,worms
 TXA,158884,asfis,worms
@@ -3507,6 +3545,7 @@ ALI,125661,asfis,worms
 PSV,282480,asfis,worms
 HOO,159378,asfis,worms
 JIU,276189,asfis,worms
+JKG,159376,asfis,worms
 FMY,217926,asfis,worms
 JMY,276190,asfis,worms
 YJW,217927,asfis,worms
@@ -3526,8 +3565,11 @@ QVI,276205,asfis,worms
 FNE,217929,asfis,worms
 NHS,159393,asfis,worms
 HOH,217936,asfis,worms
+QOA,217933,asfis,worms
 HWJ,276207,asfis,worms
 HWK,217934,asfis,worms
+QOV,276208,asfis,worms
+ZDX,276209,asfis,worms
 HPS,217937,asfis,worms
 HPO,217938,asfis,worms
 HSU,217940,asfis,worms
@@ -3904,7 +3946,7 @@ RFP,218660,asfis,worms
 QZI,218661,asfis,worms
 RPY,218665,asfis,worms
 RPF,218669,asfis,worms
-RQF,218657,asfis,worms
+RQF,1841078,asfis,worms
 RFQ,218658,asfis,worms
 JIN,277815,asfis,worms
 RPO,277817,asfis,worms
@@ -3948,6 +3990,7 @@ YCC,273200,asfis,worms
 YCO,219772,asfis,worms
 YCY,219768,asfis,worms
 YXI,126795,asfis,worms
+FTC,126796,asfis,worms
 YCZ,219775,asfis,worms
 YXH,125930,asfis,worms
 DAY,278368,asfis,worms
@@ -3962,6 +4005,7 @@ SKS,302270,asfis,worms
 FOC,302273,asfis,worms
 NSJ,402748,asfis,worms
 TWB,126798,asfis,worms
+KBG,273257,asfis,worms
 YVX,125522,asfis,worms
 FFN,217964,asfis,worms
 AGQ,278081,asfis,worms
@@ -4068,6 +4112,7 @@ JPM,280062,asfis,worms
 EPG,280063,asfis,worms
 EPP,280064,asfis,worms
 EPS,280065,asfis,worms
+KBZ,280066,asfis,worms
 EPL,280067,asfis,worms
 SNO,280068,asfis,worms
 EPJ,280069,asfis,worms
@@ -4450,6 +4495,7 @@ QAR,273129,asfis,worms
 QAV,126771,asfis,worms
 QCS,273133,asfis,worms
 QAW,126772,asfis,worms
+ZPM,273134,asfis,worms
 QAY,126777,asfis,worms
 QCW,273139,asfis,worms
 QAZ,273140,asfis,worms
@@ -4553,6 +4599,7 @@ HUN,281121,asfis,worms
 PXM,282051,asfis,worms
 PZZ,282053,asfis,worms
 PXK,282054,asfis,worms
+JJE,282055,asfis,worms
 BAP,282056,asfis,worms
 LXW,282057,asfis,worms
 PXF,282058,asfis,worms
@@ -4566,14 +4613,17 @@ RNB,273891,asfis,worms
 CBR,127041,asfis,worms
 SRJ,127042,asfis,worms
 DGK,273898,asfis,worms
+JLV,273903,asfis,worms
 RNF,273904,asfis,worms
 SRK,127043,asfis,worms
 ERB,159236,asfis,worms
+JMT,273908,asfis,worms
 BAS,126070,asfis,worms
 BSX,125561,asfis,worms
 BSZ,278720,asfis,worms
 QHP,278725,asfis,worms
 KGL,218166,asfis,worms
+JNC,206247,asfis,worms
 AHN,127031,asfis,worms
 DDW,273828,asfis,worms
 HNE,1015364,asfis,worms
@@ -4592,9 +4642,11 @@ JLT,398477,asfis,worms
 NMR,209205,asfis,worms
 HNB,311418,asfis,worms
 ODF,311419,asfis,worms
+VTA,344679,asfis,worms
 OTE,281948,asfis,worms
 NCA,278997,asfis,worms
 QRJ,279022,asfis,worms
+XLE,279027,asfis,worms
 QXG,282366,asfis,worms
 EDB,218274,asfis,worms
 EDF,277451,asfis,worms
@@ -4712,6 +4764,7 @@ EIU,367207,asfis,worms
 JLL,273844,asfis,worms
 JOW,273856,asfis,worms
 JTI,273871,asfis,worms
+IIK,273837,asfis,worms
 GPX,126068,asfis,worms
 EXF,NA,asfis,worms
 GOH,280924,asfis,worms
@@ -4730,6 +4783,7 @@ EFV,475101,asfis,worms
 EWO,475079,asfis,worms
 EEQ,475080,asfis,worms
 EIF,475102,asfis,worms
+ILW,296855,asfis,worms
 MTI,273876,asfis,worms
 MAB,159231,asfis,worms
 MKC,273877,asfis,worms
@@ -4762,7 +4816,9 @@ BMX,279868,asfis,worms
 BPH,218173,asfis,worms
 DLB,401375,asfis,worms
 LFU,218258,asfis,worms
+JLY,275941,asfis,worms
 LMK,159230,asfis,worms
+JUB,218257,asfis,worms
 NWF,834984,asfis,worms
 RIO,282545,asfis,worms
 OSB,218170,asfis,worms
@@ -5137,6 +5193,7 @@ IQU,218932,asfis,worms
 FBC,218931,asfis,worms
 BDI,273527,asfis,worms
 BDE,273528,asfis,worms
+FXY,273538,asfis,worms
 USP,1803573,asfis,worms
 BDT,218934,asfis,worms
 YFH,1702292,asfis,worms
@@ -5171,6 +5228,7 @@ FMD,277507,asfis,worms
 UUS,219082,asfis,worms
 JLH,712772,asfis,worms
 UUY,219086,asfis,worms
+MZV,204543,asfis,worms
 FMU,277262,asfis,worms
 OEZ,277263,asfis,worms
 OFD,218950,asfis,worms
@@ -5240,10 +5298,12 @@ QKT,281792,asfis,worms
 NVM,593553,asfis,worms
 OXE,219037,asfis,worms
 OVJ,277996,asfis,worms
+FQY,278002,asfis,worms
 RKG,278279,asfis,worms
 QYQ,219042,asfis,worms
 ICV,282258,asfis,worms
 YPR,282314,asfis,worms
+ZLY,282315,asfis,worms
 DCI,282417,asfis,worms
 DCV,208917,asfis,worms
 DCF,277987,asfis,worms
@@ -5293,6 +5353,7 @@ XXV,273775,asfis,worms
 NKP,273777,asfis,worms
 QZV,159301,asfis,worms
 QRV,273780,asfis,worms
+MZW,126051,asfis,worms
 SJV,219058,asfis,worms
 QDF,219063,asfis,worms
 SZQ,278736,asfis,worms
@@ -5359,6 +5420,7 @@ UYX,270605,asfis,worms
 IHV,1621607,asfis,worms
 TEJ,282884,asfis,worms
 BAJ,281275,asfis,worms
+NIO,279189,asfis,worms
 GLH,279190,asfis,worms
 GLU,279192,asfis,worms
 RCE,276975,asfis,worms
@@ -5388,15 +5450,19 @@ DUX,159725,asfis,worms
 FQG,159732,asfis,worms
 UUZ,276416,asfis,worms
 ECW,276417,asfis,worms
+NIW,276419,asfis,worms
 JHT,159733,asfis,worms
+NKQ,276420,asfis,worms
 NXZ,276421,asfis,worms
 IPQ,159734,asfis,worms
 MFF,276423,asfis,worms
 EDX,159731,asfis,worms
 EGX,280738,asfis,worms
 UGP,280739,asfis,worms
+NQF,280740,asfis,worms
 FYG,280741,asfis,worms
 EXZ,280743,asfis,worms
+NVO,269128,asfis,worms
 GEN,276954,asfis,worms
 GEV,218533,asfis,worms
 GEF,218524,asfis,worms
@@ -5437,6 +5503,7 @@ DRZ,205027,asfis,worms
 HRF,159703,asfis,worms
 HRL,276411,asfis,worms
 HTZ,276412,asfis,worms
+NWI,159702,asfis,worms
 HUO,280693,asfis,worms
 RSM,282104,asfis,worms
 QQH,276801,asfis,worms
@@ -5459,14 +5526,17 @@ RXY,126052,asfis,worms
 ERJ,279753,asfis,worms
 AWE,218634,asfis,worms
 WEW,278535,asfis,worms
+NXQ,278541,asfis,worms
 ZMV,218636,asfis,worms
 CRL,218637,asfis,worms
 USO,279845,asfis,worms
 BHC,279856,asfis,worms
 BHJ,279858,asfis,worms
+OWU,276068,asfis,worms
 BVT,159303,asfis,worms
 BZE,276070,asfis,worms
 BIH,276072,asfis,worms
+NXY,159302,asfis,worms
 BOM,279922,asfis,worms
 AXW,1674231,asfis,worms
 HIS,280137,asfis,worms
@@ -5489,6 +5559,7 @@ YNN,159305,asfis,worms
 YNO,276084,asfis,worms
 YNP,276085,asfis,worms
 YNH,276086,asfis,worms
+OWZ,276087,asfis,worms
 STG,159313,asfis,worms
 YNT,276088,asfis,worms
 YNS,276089,asfis,worms
@@ -5502,15 +5573,19 @@ AYI,280496,asfis,worms
 ENU,280499,asfis,worms
 ELH,280633,asfis,worms
 EQL,1389965,asfis,worms
+OZR,317872,asfis,worms
 KIC,280830,asfis,worms
 ISR,314710,asfis,worms
 ISA,281187,asfis,worms
 JOA,218638,asfis,worms
 JOB,276099,asfis,worms
 JCS,276100,asfis,worms
+QEN,276102,asfis,worms
 JCT,276103,asfis,worms
 JOC,276104,asfis,worms
 JOU,367241,asfis,worms
+QFD,276112,asfis,worms
+QGI,276116,asfis,worms
 JOT,276124,asfis,worms
 JOX,159317,asfis,worms
 KAA,281216,asfis,worms
@@ -5523,6 +5598,7 @@ LRF,276130,asfis,worms
 LSI,276131,asfis,worms
 LXM,159319,asfis,worms
 SPT,159322,asfis,worms
+RLE,281388,asfis,worms
 LNL,281389,asfis,worms
 WKK,281477,asfis,worms
 WMO,281478,asfis,worms
@@ -5568,7 +5644,6 @@ LIK,281966,asfis,worms
 NAM,281987,asfis,worms
 RLB,282063,asfis,worms
 RLQ,282064,asfis,worms
-RLE,315171,asfis,worms
 QNI,282065,asfis,worms
 PDR,282066,asfis,worms
 QNJ,282067,asfis,worms
@@ -5576,7 +5651,9 @@ QNL,282068,asfis,worms
 RNI,282082,asfis,worms
 EQA,282139,asfis,worms
 PQF,282140,asfis,worms
+QHR,315192,asfis,worms
 QOQ,282141,asfis,worms
+QIH,282144,asfis,worms
 NHK,1577346,asfis,worms
 CRV,282196,asfis,worms
 NHM,282197,asfis,worms
@@ -5607,6 +5684,7 @@ XCH,276153,asfis,worms
 FFY,276156,asfis,worms
 EFF,276157,asfis,worms
 RXF,276159,asfis,worms
+QNK,NA,asfis,worms
 EFL,159337,asfis,worms
 EFM,276163,asfis,worms
 EFI,276164,asfis,worms
@@ -5614,8 +5692,10 @@ EFO,276166,asfis,worms
 EBY,276167,asfis,worms
 OHP,1668000,asfis,worms
 EFR,276168,asfis,worms
-VPE,NA,asfis,worms
+VPE,1840999,asfis,worms
 EFS,276169,asfis,worms
+QOT,NA,asfis,worms
+QNN,276170,asfis,worms
 QLN,1806370,asfis,worms
 EZC,276173,asfis,worms
 FYX,159336,asfis,worms
@@ -5625,6 +5705,8 @@ UCA,127011,asfis,worms
 CKY,273796,asfis,worms
 COB,127012,asfis,worms
 UMC,159338,asfis,worms
+RVD,273797,asfis,worms
+RFN,273800,asfis,worms
 UMR,273802,asfis,worms
 UMO,127013,asfis,worms
 UMS,273803,asfis,worms
@@ -5644,11 +5726,12 @@ IHM,268319,asfis,worms
 BDG,279940,asfis,worms
 GRB,126943,asfis,worms
 XEC,1577329,asfis,worms
-KEG,1577330,asfis,worms
+KEG,1841028,asfis,worms
 XEJ,1577331,asfis,worms
 BZK,280385,asfis,worms
 BRG,280386,asfis,worms
 BWG,280387,asfis,worms
+RQQ,279261,asfis,worms
 DGP,218536,asfis,worms
 IEA,280669,asfis,worms
 HNO,995103,asfis,worms
@@ -5676,14 +5759,16 @@ HWX,158806,asfis,worms
 PMX,280973,asfis,worms
 FHI,1020759,asfis,worms
 PKU,280975,asfis,worms
-HZQ,280976,asfis,worms
+HZQ,1841043,asfis,worms
 IPV,269303,asfis,worms
 GRP,281184,asfis,worms
 FIB,281559,asfis,worms
 MIN,281560,asfis,worms
-DVO,275741,asfis,worms
+RVI,275740,asfis,worms
+DVO,1841039,asfis,worms
 PIG,158810,asfis,worms
 OTR,401818,asfis,worms
+RXI,158809,asfis,worms
 PKC,1577343,asfis,worms
 GRA,126945,asfis,worms
 HTR,273480,asfis,worms
@@ -5697,11 +5782,12 @@ GFH,273488,asfis,worms
 IEY,273489,asfis,worms
 GBL,273490,asfis,worms
 GBR,126946,asfis,worms
-FPL,NA,asfis,worms
+FPL,1841001,asfis,worms
 PKP,367252,asfis,worms
 GQW,218554,asfis,worms
 PKF,218551,asfis,worms
 GQD,218556,asfis,worms
+FQL,273495,asfis,worms
 GQV,218545,asfis,worms
 PBX,126010,asfis,worms
 GRL,218570,asfis,worms
@@ -5733,6 +5819,7 @@ QOL,280993,asfis,worms
 MOU,218695,asfis,worms
 QNV,218696,asfis,worms
 QBS,278304,asfis,worms
+JEK,278717,asfis,worms
 AYF,218470,asfis,worms
 ARQ,218468,asfis,worms
 AZX,203937,asfis,worms
@@ -5812,6 +5899,9 @@ LWT,401758,asfis,worms
 NYF,276552,asfis,worms
 LUJ,218483,asfis,worms
 LTJ,159801,asfis,worms
+RXT,276526,asfis,worms
+RXN,276527,asfis,worms
+RZH,218478,asfis,worms
 SNA,159791,asfis,worms
 MLN,218501,asfis,worms
 SNY,159803,asfis,worms
@@ -5830,6 +5920,7 @@ LRY,218510,asfis,worms
 LWA,218512,asfis,worms
 PFM,218511,asfis,worms
 LWF,276553,asfis,worms
+RXZ,276554,asfis,worms
 UPZ,276555,asfis,worms
 LRI,218513,asfis,worms
 LRB,218509,asfis,worms
@@ -6073,6 +6164,7 @@ MLM,293534,asfis,worms
 AWV,835125,asfis,worms
 SPH,159238,asfis,worms
 AVB,159239,asfis,worms
+UFY,159237,asfis,worms
 KBB,279055,asfis,worms
 KBK,218591,asfis,worms
 KBR,218590,asfis,worms
@@ -6157,7 +6249,7 @@ SBU,218614,asfis,worms
 SCM,218616,asfis,worms
 SEV,218617,asfis,worms
 PLY,205959,asfis,worms
-OTA,218618,asfis,worms
+OTA,1841065,asfis,worms
 PGA,218619,asfis,worms
 WSN,218624,asfis,worms
 RXS,218620,asfis,worms
@@ -6295,9 +6387,11 @@ MYW,281520,asfis,worms
 OFR,281877,asfis,worms
 GFM,219958,asfis,worms
 FDA,275272,asfis,worms
+UHV,275276,asfis,worms
 RWZ,275279,asfis,worms
 PUF,158934,asfis,worms
 TSP,127417,asfis,worms
+UJK,275283,asfis,worms
 QBY,158935,asfis,worms
 FDT,158936,asfis,worms
 RXD,275285,asfis,worms
@@ -6357,7 +6451,7 @@ AHQ,280026,asfis,worms
 HDE,280112,asfis,worms
 EBU,280729,asfis,worms
 MKL,277610,asfis,worms
-PKB,277614,asfis,worms
+PKB,1841076,asfis,worms
 MNK,276256,asfis,worms
 NLY,281648,asfis,worms
 XYH,220064,asfis,worms
@@ -6462,6 +6556,7 @@ MCG,220036,asfis,worms
 CXP,271797,asfis,worms
 GPC,126295,asfis,worms
 BWQ,271798,asfis,worms
+FZN,125632,asfis,worms
 DDP,220037,asfis,worms
 DPC,126296,asfis,worms
 PCX,125633,asfis,worms
@@ -6514,6 +6609,7 @@ GFG,271791,asfis,worms
 HCS,271793,asfis,worms
 ACE,282175,asfis,worms
 PSP,126290,asfis,worms
+FYR,158571,asfis,worms
 SGL,282667,asfis,worms
 CUL,217556,asfis,worms
 DKV,158574,asfis,worms
@@ -6743,6 +6839,7 @@ BFL,126341,asfis,worms
 BDU,126342,asfis,worms
 BFO,126343,asfis,worms
 BPG,126344,asfis,worms
+BME,299942,asfis,worms
 BFQ,158862,asfis,worms
 BWT,126346,asfis,worms
 IPZ,221395,asfis,worms
@@ -6868,6 +6965,7 @@ MTW,279329,asfis,worms
 OWS,158902,asfis,worms
 MCU,126626,asfis,worms
 MTP,126627,asfis,worms
+IMJ,125829,asfis,worms
 NOV,126629,asfis,worms
 NOO,158913,asfis,worms
 OWO,158914,asfis,worms
@@ -7012,7 +7110,10 @@ OLA,275618,asfis,worms
 LPW,275619,asfis,worms
 NVI,275622,asfis,worms
 DGQ,275623,asfis,worms
+JVE,275625,asfis,worms
 OWA,158762,asfis,worms
+JKN,275626,asfis,worms
+JYI,158761,asfis,worms
 OLR,217806,asfis,worms
 OMN,158765,asfis,worms
 OHV,126674,asfis,worms
@@ -7043,6 +7144,7 @@ CXL,126656,asfis,worms
 UAD,272761,asfis,worms
 TVY,126657,asfis,worms
 AHD,272763,asfis,worms
+KAV,272764,asfis,worms
 DTJ,400667,asfis,worms
 NYK,126650,asfis,worms
 PBP,126680,asfis,worms
@@ -7223,6 +7325,7 @@ HBX,205533,asfis,worms
 BLY,276271,asfis,worms
 VFP,276274,asfis,worms
 FHH,276275,asfis,worms
+IZK,276277,asfis,worms
 GUC,218120,asfis,worms
 GUR,127259,asfis,worms
 CGY,274875,asfis,worms
@@ -7250,14 +7353,19 @@ PJC,127233,asfis,worms
 PTQ,274642,asfis,worms
 PQL,274643,asfis,worms
 PWB,215622,asfis,worms
+VHP,126165,asfis,worms
 PQA,159570,asfis,worms
 QWJ,276278,asfis,worms
+IXI,276279,asfis,worms
 QWR,276280,asfis,worms
 PQC,159571,asfis,worms
+IZS,276281,asfis,worms
 PQU,276286,asfis,worms
+IZA,159573,asfis,worms
 PQP,276287,asfis,worms
 PQT,276288,asfis,worms
 QWS,276290,asfis,worms
+IZG,159576,asfis,worms
 QWY,276291,asfis,worms
 SRA,159569,asfis,worms
 XXZ,214687,asfis,worms
@@ -7265,6 +7373,7 @@ JGU,277049,asfis,worms
 BEG,277050,asfis,worms
 SRY,1011966,asfis,worms
 SWC,276950,asfis,worms
+JTY,204059,asfis,worms
 SSV,1019235,asfis,worms
 GUN,127266,asfis,worms
 GUY,126180,asfis,worms
@@ -7330,6 +7439,7 @@ RWF,274726,asfis,worms
 SNQ,127246,asfis,worms
 SMW,159564,asfis,worms
 BBS,127247,asfis,worms
+MZI,274735,asfis,worms
 RSE,127248,asfis,worms
 SOQ,274736,asfis,worms
 SVV,274737,asfis,worms
@@ -7371,6 +7481,7 @@ SFK,274806,asfis,worms
 QYT,274812,asfis,worms
 SFG,274815,asfis,worms
 RMG,274817,asfis,worms
+XSM,1015496,asfis,worms
 RVM,274819,asfis,worms
 REB,127254,asfis,worms
 SFW,274820,asfis,worms
@@ -7580,6 +7691,7 @@ UGM,280828,asfis,worms
 UIB,281145,asfis,worms
 UKA,159255,asfis,worms
 NEV,275989,asfis,worms
+NBV,1577316,asfis,worms
 STZ,275992,asfis,worms
 UPD,219165,asfis,worms
 UIZ,274029,asfis,worms
@@ -7649,6 +7761,7 @@ SYS,159583,asfis,worms
 BLG,1526187,asfis,worms
 LOZ,273633,asfis,worms
 LOB,126973,asfis,worms
+RVG,126027,asfis,worms
 LXH,125543,asfis,worms
 EMM,218465,asfis,worms
 EYO,126855,asfis,worms
@@ -7666,8 +7779,10 @@ ULA,367211,asfis,worms
 CKZ,159403,asfis,worms
 FVD,159402,asfis,worms
 FKS,276213,asfis,worms
+UEQ,276214,asfis,worms
 ULM,159404,asfis,worms
 ULP,276217,asfis,worms
+UEI,159400,asfis,worms
 TIL,159406,asfis,worms
 FGV,276219,asfis,worms
 TIS,1517578,asfis,worms
@@ -7763,6 +7878,7 @@ SPD,126424,asfis,worms
 SRH,212263,asfis,worms
 EAA,275507,asfis,worms
 EAC,275510,asfis,worms
+GWE,275511,asfis,worms
 EAO,275512,asfis,worms
 EAU,275513,asfis,worms
 EAR,275514,asfis,worms
@@ -7789,6 +7905,7 @@ VCH,279609,asfis,worms
 EVB,275540,asfis,worms
 EVN,275541,asfis,worms
 EVE,275542,asfis,worms
+GWZ,158701,asfis,worms
 AVA,280091,asfis,worms
 VEP,280092,asfis,worms
 ECD,219979,asfis,worms
@@ -7800,6 +7917,7 @@ ANA,272284,asfis,worms
 FWD,272285,asfis,worms
 ANC,219983,asfis,worms
 ANE,126426,asfis,worms
+IWV,158702,asfis,worms
 JAN,219984,asfis,worms
 NPA,272286,asfis,worms
 VET,272287,asfis,worms
@@ -7850,6 +7968,7 @@ RWA,125718,asfis,worms
 FIY,308314,asfis,worms
 RRH,584793,asfis,worms
 WRR,217441,asfis,worms
+IOG,158692,asfis,worms
 CBK,280154,asfis,worms
 CDM,280495,asfis,worms
 CEF,280592,asfis,worms
@@ -7861,6 +7980,8 @@ MHT,158690,asfis,worms
 MHA,158691,asfis,worms
 MVX,158688,asfis,worms
 PIL,126421,asfis,worms
+JAP,400071,asfis,worms
+PIA,309916,asfis,worms
 CHP,217452,asfis,worms
 JNX,203974,asfis,worms
 AGC,278995,asfis,worms
@@ -7957,19 +8078,18 @@ TUN,382775,asfis,worms
 TUX,NA,asfis,worms
 SWO,127094,asfis,worms
 BLM,712905,asfis,worms
-SAI,126949,asfis,worms
 SFA,158812,asfis,worms
 WHM,712906,asfis,worms
 MLS,712907,asfis,worms
 BLZ,219729,asfis,worms
 BUM,126950,asfis,worms
-BXQ,126013,asfis,worms
 SSP,219734,asfis,worms
 MSP,126952,asfis,worms
 RSP,126953,asfis,worms
 SPF,126954,asfis,worms
 WHH,126014,asfis,worms
 BIL,125539,asfis,worms
+BXQ,203946,asfis,worms
 CAP,126735,asfis,worms
 IQI,276690,asfis,worms
 AGA,272023,asfis,worms
@@ -8035,6 +8155,7 @@ BWB,273999,asfis,worms
 BQX,126090,asfis,worms
 BUX,125567,asfis,worms
 BLU,151482,asfis,worms
+GVZ,125554,asfis,worms
 RAB,273807,asfis,worms
 RAF,273808,asfis,worms
 RAG,127020,asfis,worms
@@ -8055,7 +8176,7 @@ BRA,125924,asfis,worms
 EBR,280748,asfis,worms
 EBS,280749,asfis,worms
 TEE,273151,asfis,worms
-TVE,221418,asfis,worms
+TVE,1841087,asfis,worms
 BPB,126785,asfis,worms
 BPY,221419,asfis,worms
 TAS,126786,asfis,worms
@@ -8077,6 +8198,7 @@ YRU,159814,asfis,worms
 YRH,212055,asfis,worms
 YRI,273981,asfis,worms
 BAC,212045,asfis,worms
+KES,273982,asfis,worms
 YRB,212056,asfis,worms
 YRN,273985,asfis,worms
 BAN,212050,asfis,worms
@@ -8086,7 +8208,7 @@ BVV,127069,asfis,worms
 BAR,126084,asfis,worms
 BAZ,125565,asfis,worms
 LIJ,159629,asfis,worms
-LTD,401562,asfis,worms
+LTD,302283,asfis,worms
 LSJ,126800,asfis,worms
 JWY,273268,asfis,worms
 LSN,273269,asfis,worms
@@ -8147,6 +8269,7 @@ HXM,159640,asfis,worms
 HXB,276352,asfis,worms
 HXL,276353,asfis,worms
 HXZ,276354,asfis,worms
+JGH,159638,asfis,worms
 NGQ,318687,asfis,worms
 LEE,126810,asfis,worms
 HAS,218430,asfis,worms
@@ -8175,6 +8298,7 @@ QUE,204103,asfis,worms
 ALA,321413,asfis,worms
 LRO,126813,asfis,worms
 BIS,159646,asfis,worms
+JGK,125942,asfis,worms
 TRY,282745,asfis,worms
 LNV,273283,asfis,worms
 LNW,273284,asfis,worms
@@ -8237,7 +8361,6 @@ USE,159658,asfis,worms
 URU,218448,asfis,worms
 UKK,159657,asfis,worms
 CGX,125523,asfis,worms
-ECN,125533,asfis,worms
 EHN,126848,asfis,worms
 HTL,126849,asfis,worms
 RRL,302877,asfis,worms
@@ -8245,6 +8368,7 @@ REY,126851,asfis,worms
 REZ,126852,asfis,worms
 REO,126853,asfis,worms
 REM,125964,asfis,worms
+ECN,125533,asfis,worms
 CBA,127006,asfis,worms
 CFW,126845,asfis,worms
 DOL,126846,asfis,worms
@@ -8307,12 +8431,13 @@ PTW,217875,asfis,worms
 PTA,126377,asfis,worms
 SXY,275978,asfis,worms
 RZF,275981,asfis,worms
-SYQ,217876,asfis,worms
+SYQ,1841083,asfis,worms
 NFA,159256,asfis,worms
 RZG,275984,asfis,worms
 SZW,275985,asfis,worms
 SGY,275986,asfis,worms
 SGR,275987,asfis,worms
+JKC,159253,asfis,worms
 AND,126378,asfis,worms
 TBH,126379,asfis,worms
 BTS,159259,asfis,worms
@@ -8398,6 +8523,7 @@ PPX,11014,asfis,worms
 HXT,105832,asfis,worms
 SBL,105833,asfis,worms
 HXN,105834,asfis,worms
+XHV,217627,asfis,worms
 NTC,217628,asfis,worms
 XAN,105699,asfis,worms
 HWR,474887,asfis,worms
@@ -8857,6 +8983,7 @@ RHH,1022262,asfis,worms
 RBS,1016293,asfis,worms
 RHO,1016275,asfis,worms
 RBW,1043598,asfis,worms
+VCB,1012968,asfis,worms
 RBL,1577351,asfis,worms
 RBK,1043490,asfis,worms
 RBT,1043479,asfis,worms
@@ -8940,6 +9067,7 @@ RFS,217392,asfis,worms
 RFY,217391,asfis,worms
 JAB,271560,asfis,worms
 JAE,271561,asfis,worms
+XDS,105762,asfis,worms
 RJI,105873,asfis,worms
 JRJ,217397,asfis,worms
 RJD,1577339,asfis,worms
@@ -9010,6 +9138,7 @@ RAY,279690,asfis,worms
 JRT,279816,asfis,worms
 JRY,279817,asfis,worms
 BYY,271503,asfis,worms
+VBA,271505,asfis,worms
 BYA,271506,asfis,worms
 BYV,271507,asfis,worms
 BZB,271509,asfis,worms
@@ -9026,6 +9155,7 @@ BZM,271519,asfis,worms
 BYM,271523,asfis,worms
 BYE,234792,asfis,worms
 BYN,271524,asfis,worms
+VBM,271525,asfis,worms
 BMU,234763,asfis,worms
 BYO,271526,asfis,worms
 BYP,105866,asfis,worms
@@ -9206,7 +9336,7 @@ MYM,399783,asfis,worms
 MYO,271487,asfis,worms
 MYY,271488,asfis,worms
 MYT,271489,asfis,worms
-FBW,271490,asfis,worms
+FBW,1841067,asfis,worms
 MYD,271491,asfis,worms
 MYJ,271492,asfis,worms
 MWX,105757,asfis,worms
@@ -9229,6 +9359,7 @@ RMU,271482,asfis,worms
 RMN,271483,asfis,worms
 RMT,105859,asfis,worms
 RMO,217430,asfis,worms
+XMY,1830940,asfis,worms
 RMV,105756,asfis,worms
 MAN,196070,asfis,worms
 CHJ,278468,asfis,worms
@@ -9492,6 +9623,7 @@ KAP,107269,asfis,worms
 KPP,209500,asfis,worms
 KAR,241043,asfis,worms
 KPS,394994,asfis,worms
+UVY,106873,asfis,worms
 KPU,440315,asfis,worms
 KAT,421921,asfis,worms
 YMG,440341,asfis,worms
@@ -9507,6 +9639,7 @@ KKJ,440379,asfis,worms
 CRE,107276,asfis,worms
 QPR,440381,asfis,worms
 ROC,440382,asfis,worms
+UWU,106876,asfis,worms
 KKM,440383,asfis,worms
 CWE,440386,asfis,worms
 DUN,440388,asfis,worms
@@ -9518,6 +9651,7 @@ KPM,209151,asfis,worms
 HBZ,440405,asfis,worms
 JHO,254360,asfis,worms
 JIV,107277,asfis,worms
+FMR,107288,asfis,worms
 EHK,440433,asfis,worms
 EQS,207602,asfis,worms
 EHH,440488,asfis,worms
@@ -9539,12 +9673,16 @@ GVN,107292,asfis,worms
 JSM,107294,asfis,worms
 JSH,107301,asfis,worms
 JET,107302,asfis,worms
+IIJ,107303,asfis,worms
 KEM,158426,asfis,worms
 IIF,107353,asfis,worms
+WPS,106912,asfis,worms
 TEV,442136,asfis,worms
+IOH,107326,asfis,worms
 IFO,107327,asfis,worms
 IXF,107330,asfis,worms
 IXG,106905,asfis,worms
+FMQ,107343,asfis,worms
 IFS,107345,asfis,worms
 IJF,107346,asfis,worms
 IJE,205077,asfis,worms
@@ -9572,7 +9710,11 @@ MVH,107323,asfis,worms
 MJW,106903,asfis,worms
 IFY,210258,asfis,worms
 DOQ,443048,asfis,worms
+JDW,442260,asfis,worms
+FSQ,442337,asfis,worms
 GWK,107418,asfis,worms
+VKP,107420,asfis,worms
+UZP,106941,asfis,worms
 GAK,442349,asfis,worms
 CMR,107380,asfis,worms
 CRG,107381,asfis,worms
@@ -9613,6 +9755,7 @@ ICC,1752528,asfis,worms
 IOD,1750291,asfis,worms
 QPH,107399,asfis,worms
 IJW,1748246,asfis,worms
+VUP,148453,asfis,worms
 IJV,1750287,asfis,worms
 LQA,1752525,asfis,worms
 DBX,151200,asfis,worms
@@ -9654,6 +9797,7 @@ YBX,106923,asfis,worms
 KNR,241109,asfis,worms
 EHD,442743,asfis,worms
 EYX,442744,asfis,worms
+UVO,439669,asfis,worms
 YHW,1462330,asfis,worms
 QAI,1361696,asfis,worms
 ODV,208884,asfis,worms
@@ -9689,6 +9833,7 @@ KDA,1478169,asfis,worms
 KDC,210291,asfis,worms
 KDK,444442,asfis,worms
 KDG,422183,asfis,worms
+UXG,205357,asfis,worms
 DJL,444445,asfis,worms
 GKQ,444450,asfis,worms
 GED,217261,asfis,worms
@@ -9715,6 +9860,7 @@ EJI,444516,asfis,worms
 EJV,444517,asfis,worms
 JMO,207563,asfis,worms
 RMS,444686,asfis,worms
+FNB,107449,asfis,worms
 DEZ,107450,asfis,worms
 VAL,207551,asfis,worms
 VAU,444833,asfis,worms
@@ -9789,6 +9935,7 @@ NEX,106741,asfis,worms
 NFJ,382840,asfis,worms
 AXO,477507,asfis,worms
 CDQ,246244,asfis,worms
+IRC,107726,asfis,worms
 ACX,741396,asfis,worms
 CZP,107072,asfis,worms
 LLY,1398927,asfis,worms
@@ -9801,6 +9948,7 @@ ISJ,1398867,asfis,worms
 ISU,1398900,asfis,worms
 ISN,465345,asfis,worms
 NXV,477829,asfis,worms
+IJH,107737,asfis,worms
 TAQ,477807,asfis,worms
 UPW,477849,asfis,worms
 UOC,246491,asfis,worms
@@ -9943,6 +10091,7 @@ HIQ,467833,asfis,worms
 BQL,208668,asfis,worms
 CBI,367511,asfis,worms
 DEH,107197,asfis,worms
+JDL,107199,asfis,worms
 FAY,107200,asfis,worms
 ERK,368345,asfis,worms
 KAQ,550622,asfis,worms
@@ -9973,6 +10122,8 @@ NIJ,107218,asfis,worms
 DJG,366317,asfis,worms
 FBE,107230,asfis,worms
 PZW,107232,asfis,worms
+WMP,107235,asfis,worms
+XPM,107236,asfis,worms
 CZB,107239,asfis,worms
 FBG,107240,asfis,worms
 FAZ,106854,asfis,worms
@@ -9986,11 +10137,16 @@ SSH,240796,asfis,worms
 AJA,220252,asfis,worms
 ARA,107083,asfis,worms
 ANJ,158327,asfis,worms
+FMM,220250,asfis,worms
 AJN,220253,asfis,worms
 ARV,234116,asfis,worms
 AVD,220251,asfis,worms
 AXR,106807,asfis,worms
+FMT,246428,asfis,worms
+FNF,220255,asfis,worms
+FOJ,107084,asfis,worms
 ARI,106725,asfis,worms
+JQA,584920,asfis,worms
 BIQ,1391797,asfis,worms
 BGQ,1422238,asfis,worms
 NAH,584932,asfis,worms
@@ -10187,15 +10343,19 @@ AKS,210646,asfis,worms
 EKE,377411,asfis,worms
 EKS,210650,asfis,worms
 ESV,377412,asfis,worms
+UVJ,158343,asfis,worms
 JUE,514121,asfis,worms
+FVS,515738,asfis,worms
 GTN,1056503,asfis,worms
 JTM,1056517,asfis,worms
+FQS,107127,asfis,worms
 GWS,106829,asfis,worms
 SHS,106731,asfis,worms
 MVE,421659,asfis,worms
 TPD,210370,asfis,worms
 FEI,210537,asfis,worms
 FEB,514838,asfis,worms
+IVA,107475,asfis,worms
 FED,514862,asfis,worms
 FEU,210507,asfis,worms
 FEL,107477,asfis,worms
@@ -10223,6 +10383,7 @@ YSD,515365,asfis,worms
 YMS,107528,asfis,worms
 YMV,220261,asfis,worms
 OGR,395012,asfis,worms
+IWE,156083,asfis,worms
 UUL,515229,asfis,worms
 UUM,158359,asfis,worms
 UJP,107507,asfis,worms
@@ -10234,6 +10395,7 @@ HSQ,515263,asfis,worms
 IRI,107531,asfis,worms
 IRS,107533,asfis,worms
 MYQ,342627,asfis,worms
+IWN,107548,asfis,worms
 ONZ,107549,asfis,worms
 GJL,254487,asfis,worms
 CGF,246272,asfis,worms
@@ -10250,6 +10412,7 @@ GQC,423552,asfis,worms
 NCM,369204,asfis,worms
 GNZ,515589,asfis,worms
 FSJ,107562,asfis,worms
+WPN,107010,asfis,worms
 PKQ,220373,asfis,worms
 OWI,107563,asfis,worms
 OFI,107564,asfis,worms
@@ -10272,6 +10435,7 @@ RCY,212926,asfis,worms
 RYW,514385,asfis,worms
 FYU,107579,asfis,worms
 FQQ,564909,asfis,worms
+IVN,107582,asfis,worms
 FBX,107018,asfis,worms
 YMF,514273,asfis,worms
 NJP,514275,asfis,worms
@@ -10361,9 +10525,11 @@ PSH,107044,asfis,worms
 GFU,107668,asfis,worms
 LKG,585680,asfis,worms
 FHZ,107673,asfis,worms
+FPG,514215,asfis,worms
 FHE,107674,asfis,worms
 FAJ,514229,asfis,worms
 FAM,107676,asfis,worms
+FQR,514245,asfis,worms
 FAV,107677,asfis,worms
 FAC,107678,asfis,worms
 FPO,107052,asfis,worms
@@ -10477,6 +10643,7 @@ AJY,118825,asfis,worms
 AZD,257933,asfis,worms
 AZJ,259019,asfis,worms
 IZO,259252,asfis,worms
+WCN,118274,asfis,worms
 EHY,174884,asfis,worms
 DQO,119039,asfis,worms
 DQW,119044,asfis,worms
@@ -10501,6 +10668,9 @@ OQG,409303,asfis,worms
 OQS,409304,asfis,worms
 OQE,409312,asfis,worms
 OQQ,409313,asfis,worms
+FRV,136135,asfis,worms
+IJR,136136,asfis,worms
+RWV,136112,asfis,worms
 QLA,409339,asfis,worms
 QLB,409340,asfis,worms
 QLW,409341,asfis,worms
@@ -10516,6 +10686,7 @@ LQH,136120,asfis,worms
 LQM,211183,asfis,worms
 LQP,409036,asfis,worms
 LQS,409037,asfis,worms
+KBP,136126,asfis,worms
 HQE,408962,asfis,worms
 PQS,409162,asfis,worms
 SVX,14355,asfis,worms
@@ -10544,11 +10715,13 @@ YMB,761285,asfis,worms
 YMR,420926,asfis,worms
 YME,872679,asfis,worms
 YMX,761286,asfis,worms
+VBS,992023,asfis,worms
 YMI,575042,asfis,worms
 YMT,992026,asfis,worms
 YGX,415847,asfis,worms
 VIY,987300,asfis,worms
 DRP,181566,asfis,worms
+XFB,105,asfis,worms
 GFZ,594807,asfis,worms
 WPZ,848374,asfis,worms
 UWP,737472,asfis,worms
@@ -10703,7 +10876,7 @@ KTQ,139059,asfis,worms
 KEC,473098,asfis,worms
 KEE,216669,asfis,worms
 KEN,139062,asfis,worms
-KHV,1752800,asfis,worms
+KHV,1819234,asfis,worms
 KYY,216711,asfis,worms
 PVC,473486,asfis,worms
 RVA,215120,asfis,worms
@@ -10729,6 +10902,7 @@ RIZ,140167,asfis,worms
 OZM,140169,asfis,worms
 OZN,140170,asfis,worms
 LRZ,208939,asfis,worms
+VGL,446917,asfis,worms
 IFU,140261,asfis,worms
 PEE,140262,asfis,worms
 IZE,140263,asfis,worms
@@ -10739,6 +10913,7 @@ EKQ,446936,asfis,worms
 EKG,446938,asfis,worms
 EQP,446939,asfis,worms
 JBS,141539,asfis,worms
+JJP,141339,asfis,worms
 DQH,986822,asfis,worms
 NBL,139832,asfis,worms
 ZLX,135,asfis,worms
@@ -10746,6 +10921,7 @@ NKV,886581,asfis,worms
 UNQ,140528,asfis,worms
 UTF,140529,asfis,worms
 UTG,140531,asfis,worms
+JEN,140532,asfis,worms
 UGV,151894,asfis,worms
 OKU,569972,asfis,worms
 OLZ,569979,asfis,worms
@@ -11176,6 +11352,8 @@ GXZ,140820,asfis,worms
 JQG,1340048,asfis,worms
 FPT,140744,asfis,worms
 JTR,139488,asfis,worms
+KVC,139030,asfis,worms
+JQP,835618,asfis,worms
 FNG,527759,asfis,worms
 FNJ,740945,asfis,worms
 FNL,215290,asfis,worms
@@ -11183,13 +11361,16 @@ FNS,740940,asfis,worms
 ZQW,138489,asfis,worms
 ZIW,1341952,asfis,worms
 GAS,101,asfis,worms
+FYA,138807,asfis,worms
 KSH,411132,asfis,worms
 KVU,181228,asfis,worms
 KPZ,140627,asfis,worms
 EZD,139523,asfis,worms
 JII,416648,asfis,worms
 FCF,153375,asfis,worms
+YJJ,137654,asfis,worms
 DBU,208629,asfis,worms
+YKK,172,asfis,worms
 EBD,574843,asfis,worms
 EBM,591375,asfis,worms
 YHS,707659,asfis,worms
@@ -11220,6 +11401,7 @@ OYC,138297,asfis,worms
 DDF,506716,asfis,worms
 DDO,420779,asfis,worms
 LFI,216638,asfis,worms
+OYP,1039387,asfis,worms
 KAN,836034,asfis,worms
 OYL,836035,asfis,worms
 CSI,836036,asfis,worms
@@ -11295,6 +11477,7 @@ DJU,506105,asfis,worms
 DJQ,420706,asfis,worms
 MOD,138223,asfis,worms
 JYN,140472,asfis,worms
+FZM,506128,asfis,worms
 YEG,533145,asfis,worms
 YEP,506152,asfis,worms
 YER,1458663,asfis,worms
@@ -11322,11 +11505,13 @@ QSC,140687,asfis,worms
 QPT,394229,asfis,worms
 UMY,NA,asfis,worms
 UMP,215388,asfis,worms
+TWQ,205333,asfis,worms
 NKF,393954,asfis,worms
 SCC,394271,asfis,worms
 SCB,156817,asfis,worms
 SCQ,394269,asfis,worms
 SCH,394270,asfis,worms
+TZN,156816,asfis,worms
 BAV,394391,asfis,worms
 CMF,1807213,asfis,worms
 KLH,367964,asfis,worms
@@ -11383,6 +11568,7 @@ RNY,224536,asfis,worms
 TQF,146524,asfis,worms
 TQM,507064,asfis,worms
 TQE,140779,asfis,worms
+VBD,420740,asfis,worms
 TQC,507065,asfis,worms
 TQX,216652,asfis,worms
 TQY,138351,asfis,worms
@@ -11424,6 +11610,7 @@ FKP,504339,asfis,worms
 NQR,504328,asfis,worms
 DRG,504316,asfis,worms
 NRQ,504295,asfis,worms
+FXA,156734,asfis,worms
 NQT,504313,asfis,worms
 BLS,137669,asfis,worms
 AKQ,215228,asfis,worms
@@ -11505,7 +11692,7 @@ SQD,413346,asfis,worms
 SGX,413500,asfis,worms
 LNX,367773,asfis,worms
 SVK,413503,asfis,worms
-ONK,413756,asfis,worms
+ONK,413757,asfis,worms
 SVM,413513,asfis,worms
 RAE,141546,asfis,worms
 SVU,216476,asfis,worms
@@ -11629,6 +11816,7 @@ TQS,876772,asfis,worms
 TQV,575774,asfis,worms
 EQN,724439,asfis,worms
 DXA,494693,asfis,worms
+VBI,494694,asfis,worms
 DXC,494696,asfis,worms
 DXK,494697,asfis,worms
 DXD,420902,asfis,worms
@@ -11659,11 +11847,13 @@ IFV,225450,asfis,worms
 IFX,225446,asfis,worms
 DXN,1476861,asfis,worms
 DNE,1610811,asfis,worms
+VBO,213509,asfis,worms
 FSV,213508,asfis,worms
 FWX,204788,asfis,worms
 GJD,140869,asfis,worms
 GQE,213519,asfis,worms
 GIF,140870,asfis,worms
+VBR,507162,asfis,worms
 GJQ,507164,asfis,worms
 GJT,507153,asfis,worms
 GJU,507166,asfis,worms
@@ -11678,6 +11868,7 @@ UJX,206767,asfis,worms
 WBB,141433,asfis,worms
 WBC,141436,asfis,worms
 OBN,141424,asfis,worms
+VFL,507286,asfis,worms
 EMQ,507284,asfis,worms
 SRZ,216510,asfis,worms
 TUW,507298,asfis,worms
@@ -11685,6 +11876,7 @@ XML,138476,asfis,worms
 ZNB,507341,asfis,worms
 ZNC,141541,asfis,worms
 KUT,507346,asfis,worms
+JES,141543,asfis,worms
 UUT,141544,asfis,worms
 UUX,138513,asfis,worms
 GLW,225506,asfis,worms
@@ -11810,6 +12002,7 @@ ITL,708849,asfis,worms
 ITJ,714771,asfis,worms
 FDW,507734,asfis,worms
 RQC,507740,asfis,worms
+VFD,507743,asfis,worms
 RQG,507750,asfis,worms
 RQE,507744,asfis,worms
 PTS,507737,asfis,worms
@@ -11865,6 +12058,7 @@ VNR,745846,asfis,worms
 FAG,507880,asfis,worms
 ITT,1361654,asfis,worms
 EHX,533373,asfis,worms
+RTV,1832758,asfis,worms
 CTG,231749,asfis,worms
 CLJ,231750,asfis,worms
 TPS,231748,asfis,worms
@@ -11890,7 +12084,6 @@ TVV,507958,asfis,worms
 TVW,204741,asfis,worms
 NWP,507968,asfis,worms
 DOY,141875,asfis,worms
-RTV,507985,asfis,worms
 VUC,181364,asfis,worms
 VEN,138647,asfis,worms
 KFA,141934,asfis,worms
@@ -11994,6 +12187,7 @@ WTO,342214,asfis,worms
 IEO,225586,asfis,worms
 WRW,342215,asfis,worms
 IEX,153103,asfis,worms
+XSE,11723,asfis,worms
 CTL,11723,asfis,worms
 IOU,1437788,asfis,worms
 IOL,1437787,asfis,worms
@@ -12020,6 +12214,7 @@ IRE,157036,asfis,worms
 ITG,141450,asfis,worms
 ITB,141451,asfis,worms
 ITW,141452,asfis,worms
+QLS,138482,asfis,worms
 IOF,141453,asfis,worms
 IOT,141454,asfis,worms
 IOI,141456,asfis,worms
@@ -12030,6 +12225,7 @@ IOX,138483,asfis,worms
 IIN,342396,asfis,worms
 UTK,157037,asfis,worms
 HZW,410405,asfis,worms
+XSO,11725,asfis,worms
 EDZ,342389,asfis,worms
 EDK,342391,asfis,worms
 EZL,342394,asfis,worms
@@ -12072,6 +12268,7 @@ OJI,410413,asfis,worms
 OJN,410415,asfis,worms
 SQZ,11734,asfis,worms
 NKL,138747,asfis,worms
+VHA,342218,asfis,worms
 YHA,138848,asfis,worms
 BQP,341795,asfis,worms
 BQR,138852,asfis,worms
@@ -12112,6 +12309,7 @@ HQC,140112,asfis,worms
 HQS,181381,asfis,worms
 FQX,138074,asfis,worms
 HQL,410402,asfis,worms
+VFU,181383,asfis,worms
 LHQ,325302,asfis,worms
 OKS,181379,asfis,worms
 NID,140609,asfis,worms
@@ -12174,6 +12372,7 @@ YYA,140596,asfis,worms
 YYS,140598,asfis,worms
 BTQ,527149,asfis,worms
 BUV,527165,asfis,worms
+UUO,884005,asfis,worms
 EOI,140600,asfis,worms
 EDY,341935,asfis,worms
 EDT,140601,asfis,worms
@@ -12195,10 +12394,22 @@ TVG,342262,asfis,worms
 VAZ,342415,asfis,worms
 QHU,409949,asfis,worms
 OUJ,534097,asfis,worms
+FMJ,342271,asfis,worms
 OTY,420653,asfis,worms
+GVQ,535623,asfis,worms
 OFY,534733,asfis,worms
+JBQ,534098,asfis,worms
+KAJ,534099,asfis,worms
 OQR,535830,asfis,worms
+MWZ,535841,asfis,worms
 OCW,535842,asfis,worms
+NBQ,534588,asfis,worms
+OWL,534582,asfis,worms
+QDW,534567,asfis,worms
+RFJ,534563,asfis,worms
+TWJ,534527,asfis,worms
+UED,534516,asfis,worms
+VAV,341406,asfis,worms
 OCN,534558,asfis,worms
 LLK,534728,asfis,worms
 KTI,220324,asfis,worms
@@ -12260,6 +12471,7 @@ RTW,820351,asfis,worms
 DDC,606409,asfis,worms
 NTX,150534,asfis,worms
 DEG,344129,asfis,worms
+FYD,137886,asfis,worms
 KRZ,344188,asfis,worms
 HMX,378018,asfis,worms
 USH,344422,asfis,worms
@@ -12435,9 +12647,9 @@ XUM,1670922,asfis,worms
 FOU,1514166,asfis,worms
 FOV,1670915,asfis,worms
 YXD,1670921,asfis,worms
-RLG,NA,asfis,worms
+RLG,1841032,asfis,worms
 FOK,1806354,asfis,worms
-FGY,NA,asfis,worms
+FGY,1841027,asfis,worms
 FRQ,1729668,asfis,worms
 FGP,1459634,asfis,worms
 FGL,1035199,asfis,worms
@@ -12460,6 +12672,7 @@ WQA,1466459,asfis,worms
 DSB,1464491,asfis,worms
 NQH,1671008,asfis,worms
 TTS,1026091,asfis,worms
+YXY,397354,asfis,worms
 TTL,137205,asfis,worms
 TUG,137206,asfis,worms
 TTH,137207,asfis,worms
@@ -12503,6 +12716,7 @@ AZW,103710,asfis,worms
 DTQ,103717,asfis,worms
 DUV,103718,asfis,worms
 DUQ,103719,asfis,worms
+JPI,103724,asfis,worms
 KOH,103728,asfis,worms
 KJO,103729,asfis,worms
 KJP,103730,asfis,worms
@@ -12563,6 +12777,7 @@ HSC,150514,asfis,worms
 WYP,238270,asfis,worms
 ECH,1806,asfis,worms
 OVA,124201,asfis,worms
+JSA,124208,asfis,worms
 OVQ,124226,asfis,worms
 QNR,173830,asfis,worms
 QNS,173988,asfis,worms
@@ -12591,6 +12806,7 @@ QDY,123908,asfis,worms
 BHV,380760,asfis,worms
 HZA,178249,asfis,worms
 BHZ,123119,asfis,worms
+FYE,241001,asfis,worms
 HBQ,178757,asfis,worms
 IHZ,123974,asfis,worms
 RFH,172745,asfis,worms
@@ -12680,11 +12896,13 @@ ECZ,513256,asfis,worms
 MVG,880816,asfis,worms
 UCH,160809,asfis,worms
 URM,124316,asfis,worms
+FUB,220995,asfis,worms
 KIM,124318,asfis,worms
 KIT,124319,asfis,worms
 DBC,414214,asfis,worms
 BXC,160763,asfis,worms
 BXA,160790,asfis,worms
+ZMO,569394,asfis,worms
 TFW,414252,asfis,worms
 TFY,414253,asfis,worms
 VFY,124418,asfis,worms
@@ -12788,7 +13006,9 @@ KHG,124612,asfis,worms
 KHE,241808,asfis,worms
 KGH,530471,asfis,worms
 HZT,529510,asfis,worms
+JOM,124647,asfis,worms
 IGK,1474372,asfis,worms
+XMP,1474379,asfis,worms
 FKM,732043,asfis,worms
 JGQ,174060,asfis,worms
 RXO,325442,asfis,worms
@@ -12802,6 +13022,8 @@ FKO,241765,asfis,worms
 MZH,124801,asfis,worms
 QEY,529641,asfis,worms
 JEW,124465,asfis,worms
+FOM,152547,asfis,worms
+QMO,152546,asfis,worms
 QHO,529023,asfis,worms
 CUX,123083,asfis,worms
 XEF,736980,asfis,worms
@@ -12810,8 +13032,10 @@ DWY,135302,asfis,worms
 CWY,135304,asfis,worms
 CWF,287210,asfis,worms
 AJQ,135306,asfis,worms
+XMA,135263,asfis,worms
 ZSE,287167,asfis,worms
 JCD,135254,asfis,worms
+ZCB,135297,asfis,worms
 MHX,290453,asfis,worms
 RQS,292502,asfis,worms
 RQU,287187,asfis,worms
@@ -12865,6 +13089,7 @@ FBL,130988,asfis,worms
 FDG,130989,asfis,worms
 JPX,129580,asfis,worms
 SZS,988,asfis,worms
+JSB,131242,asfis,worms
 QVW,131495,asfis,worms
 QZA,131543,asfis,worms
 WUU,266877,asfis,worms
@@ -12908,6 +13133,7 @@ IKM,464493,asfis,worms
 IDR,140890,asfis,worms
 IKS,596390,asfis,worms
 TPV,464504,asfis,worms
+VAW,420735,asfis,worms
 EHJ,140891,asfis,worms
 PTE,208448,asfis,worms
 TEW,464505,asfis,worms
@@ -12920,7 +13146,7 @@ CNI,1267,asfis,worms
 AJH,1292,asfis,worms
 KJC,100801,asfis,worms
 KQN,100803,asfis,worms
-NOW,231858,asfis,worms
+NOW,100808,asfis,worms
 DTI,100817,asfis,worms
 BVX,100698,asfis,worms
 KYU,100822,asfis,worms
@@ -13007,6 +13233,7 @@ AQZ,22549,asfis,worms
 ZOT,607338,asfis,worms
 ATX,1360,asfis,worms
 DVT,125333,asfis,worms
+FQA,125334,asfis,worms
 WAG,125414,asfis,worms
 GSV,156103,asfis,worms
 AJZ,NA,asfis,worms
@@ -13049,6 +13276,7 @@ INY,291116,asfis,worms
 BWV,125281,asfis,worms
 QAC,128515,asfis,worms
 QAF,128517,asfis,worms
+JVP,128519,asfis,worms
 QAD,1379630,asfis,worms
 QMU,125405,asfis,worms
 QOE,125411,asfis,worms
@@ -13063,7 +13291,7 @@ KBN,117644,asfis,worms
 MHF,210730,asfis,worms
 VEL,117832,asfis,worms
 DWX,117242,asfis,worms
-NWX,231552,asfis,worms
+NWX,1077266,asfis,worms
 AXT,22805,asfis,worms
 UEY,157933,asfis,worms
 UEE,117994,asfis,worms
@@ -13139,6 +13367,7 @@ QBR,134240,asfis,worms
 XHX,131777,asfis,worms
 ZRX,132071,asfis,worms
 QBW,134273,asfis,worms
+JTS,134282,asfis,worms
 ZSF,134285,asfis,worms
 KFE,150237,asfis,worms
 ZSW,131723,asfis,worms
@@ -13229,9 +13458,6 @@ YDL,145861,asfis,worms
 PWF,145863,asfis,worms
 QQR,145892,asfis,worms
 SWB,830,asfis,worms
-FFI,372182,asfis,worms
-FFJ,371184,asfis,worms
-FFK,372998,asfis,worms
 SWR,852,asfis,worms
 OFX,144749,asfis,worms
 OFK,144426,asfis,worms
@@ -13292,6 +13518,7 @@ QRL,144773,asfis,worms
 SWP,145222,asfis,worms
 KKG,145228,asfis,worms
 FFG,372181,asfis,worms
+FFI,372182,asfis,worms
 FKU,145620,asfis,worms
 FFD,145739,asfis,worms
 FFF,214368,asfis,worms
@@ -13316,8 +13543,10 @@ KDI,371693,asfis,worms
 DZT,371695,asfis,worms
 YVO,145626,asfis,worms
 GJK,371735,asfis,worms
+FRW,144155,asfis,worms
 IDC,325522,asfis,worms
 LGY,325520,asfis,worms
+XMC,1876697,asfis,worms
 FHM,371700,asfis,worms
 MZL,371711,asfis,worms
 FHU,648617,asfis,worms
@@ -13328,6 +13557,8 @@ EZF,1327787,asfis,worms
 EZH,1327614,asfis,worms
 GKC,145691,asfis,worms
 GCH,373381,asfis,worms
+FFJ,371184,asfis,worms
+FFK,372998,asfis,worms
 GKA,145698,asfis,worms
 GZG,145700,asfis,worms
 FFL,374143,asfis,worms
@@ -13422,6 +13653,7 @@ HZP,608431,asfis,worms
 SWG,802,asfis,worms
 HLW,1339518,asfis,worms
 HQW,532029,asfis,worms
+KSO,614413,asfis,worms
 NHO,619172,asfis,worms
 KQB,211498,asfis,worms
 DZN,700395,asfis,worms
@@ -13477,20 +13709,24 @@ ULQ,660753,asfis,worms
 SIZ,146541,asfis,worms
 YBK,146542,asfis,worms
 ZVZ,577258,asfis,worms
+UGE,8012,asfis,worms
+UGW,603253,asfis,worms
 DQY,573884,asfis,worms
 ZVV,590558,asfis,worms
 KYO,109998,asfis,worms
 DFY,19542,asfis,worms
 NZK,163932,asfis,worms
+ZPH,175584,asfis,worms
 KEK,149074,asfis,worms
 BFY,148899,asfis,worms
 DWT,1370287,asfis,worms
 ZWJ,376148,asfis,worms
+FNN,345489,asfis,worms
 AFX,374718,asfis,worms
 OZA,374711,asfis,worms
 OZU,374712,asfis,worms
 OZO,145794,asfis,worms
-ZON,669496,asfis,worms
+ZON,1873041,asfis,worms
 ZOM,495077,asfis,worms
 GPQ,NA,asfis,worms
 CJQ,1672912,asfis,worms
@@ -13559,6 +13795,7 @@ OCO,137190,asfis,worms
 WFS,212700,asfis,worms
 DGD,1806345,asfis,worms
 DBK,1773443,asfis,worms
+YDM,NA,asfis,worms
 DAZ,137189,asfis,worms
 DAM,405082,asfis,worms
 DQS,405084,asfis,worms
@@ -13590,8 +13827,10 @@ PUG,882958,asfis,worms
 PFG,707542,asfis,worms
 PFZ,707543,asfis,worms
 PFT,707544,asfis,worms
+UPF,1348497,asfis,worms
 CDI,137194,asfis,worms
 CZE,759340,asfis,worms
+ZPF,137062,asfis,worms
 DAC,212640,asfis,worms
 FNO,137195,asfis,worms
 FUG,212638,asfis,worms
@@ -13633,6 +13872,8 @@ TAA,212639,asfis,worms
 PRX,136998,asfis,worms
 TVH,212668,asfis,worms
 BXR,148747,asfis,worms
+XCR,137175,asfis,worms
+XON,137176,asfis,worms
 TWH,1298001,asfis,worms
 BZP,137052,asfis,worms
 BXJ,204117,asfis,worms
@@ -13647,6 +13888,7 @@ SZV,136994,asfis,worms
 ISW,1704278,asfis,worms
 ISQ,1603882,asfis,worms
 LXU,1806368,asfis,worms
+WPY,1494896,asfis,worms
 ISY,137179,asfis,worms
 ITV,136993,asfis,worms
 SWS,225754,asfis,worms
@@ -13659,6 +13901,7 @@ FBO,148798,asfis,worms
 DTZ,567449,asfis,worms
 DYH,567825,asfis,worms
 LHZ,137138,asfis,worms
+QLL,343904,asfis,worms
 LVA,159074,asfis,worms
 LVH,137139,asfis,worms
 LVJ,137140,asfis,worms
@@ -13683,12 +13926,14 @@ TVF,137165,asfis,worms
 SVI,225766,asfis,worms
 SVZ,137047,asfis,worms
 FBP,567480,asfis,worms
+JTB,413039,asfis,worms
 SVB,413041,asfis,worms
 DYQ,413044,asfis,worms
 LVZ,137167,asfis,worms
 LRD,136988,asfis,worms
 CAQ,343933,asfis,worms
 CTH,225762,asfis,worms
+CAM,159073,asfis,worms
 CSK,137170,asfis,worms
 FBF,137171,asfis,worms
 TBW,137172,asfis,worms
