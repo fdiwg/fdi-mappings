@@ -3,3 +3,5 @@
 "NOA","FS","schooltype_iattc","schooltype_rfmos"
 "OBJ","LS","schooltype_iattc","schooltype_rfmos"
 "OTH","OTH","schooltype_iattc","schooltype_rfmos"
+"UNK","UNK","schooltype_iattc","schooltype_rfmos"
+"ALL","UNK","schooltype_iattc","schooltype_rfmos"
